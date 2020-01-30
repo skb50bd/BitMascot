@@ -1,1 +1,0 @@
-"use strict";var fruits=["Apple","Banana","Orange","Grape"],ul=$("#my-ul");$.each(fruits,function(a){$("<li/>").text(fruits[a]).appendTo(ul)});
